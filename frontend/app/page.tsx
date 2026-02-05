@@ -58,7 +58,10 @@ export default function Home() {
           >
             Documentation
           </a>
+<<<<<<< HEAD
           <p> ROMINA ZARZA</p>
+=======
+>>>>>>> develop
         </div>
       </main>
     </div>
